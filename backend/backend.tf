@@ -1,4 +1,3 @@
-    
 bucket  = "armory-se-terraformer-demo"
 key     = "demo-api-dev.tfstate"
 region  = "us-east-1"
